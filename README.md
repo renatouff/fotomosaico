@@ -1,4 +1,4 @@
-# 🖼️ Gerador de Foto-Mosaico em Java
+# 🖼️ Gerador de Foto-Mosaico em Java 
 
 Uma aplicação desktop desenvolvido em Java que transforma uma imagem comum em um foto-mosaico. O programa analisa a intensidade de cor da imagem original e a recria utilizando um banco de imagens menores (chamadas de ladrilhos), encaixando cada ladrilho na região onde a cor média mais se aproxima.
 
