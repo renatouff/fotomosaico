@@ -54,4 +54,4 @@ O projeto foi construído seguindo fortes princípios de **Orientação a Objeto
 
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/](https://github.com/)
+   git clone [https://github.com/renatouff/fotomosaico.git](https://github.com/renatouff/fotomosaico.git)
