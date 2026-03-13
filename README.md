@@ -52,6 +52,5 @@ O projeto foi construído seguindo fortes princípios de **Orientação a Objeto
 
 ## 💻 Como Executar
 
-1. Clone este repositório:
-   ```bash
-   git clone [https://github.com/renatouff/fotomosaico.git](https://github.com/renatouff/fotomosaico.git)
+1. Clone o repositório: `git clone https://github.com/renatouff/fotomosaico.git`
+2. Abra e execute o projeto na IDE.
